@@ -12,5 +12,8 @@ __pycache__/
 .tmp/
 logs/
 
+# VS Code
+.vscode/
+
 # macOS
 .DS_Store
