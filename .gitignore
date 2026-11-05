@@ -1,0 +1,16 @@
+# Segreti e credenziali
+.env
+credentials.json
+token.json
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# File intermedi (rigenerabili, mai committare)
+.tmp/
+logs/
+
+# macOS
+.DS_Store
